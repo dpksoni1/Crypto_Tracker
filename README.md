@@ -1,6 +1,6 @@
 # Crypto-Tracker
 ## Live-Demo
-<p>https://cryptotracckker.netlify.app/</p>
+<p>https://crypto-tracker-qnjlylggn-deepak-vermas-projects-35af6798.vercel.app/</p>
 
 ## About the Project
 <p> Built the crypto tracker using HTML, CSS, and JavaScript, ensuring compatibility across various web browsers and devices.</p>
@@ -17,7 +17,7 @@
 
 ## Contact-Info
 
-<a href="https://www.linkedin.com/in/aashish-gangwar/"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/dpksoni1/"> LinkedIn </a>
 
-Email: aashishgangwar2003@gmail.com
+Email: dpksoni772@gmail.com
 
